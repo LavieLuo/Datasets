@@ -1,1 +1,1 @@
-Repository for figures in other repositories.
+Repository for files in other repositories.
